@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DailyEd/static/css/main.dc959610.css",
+    "main.js": "/DailyEd/static/js/main.d2635ae4.js",
+    "static/media/slick.svg": "/DailyEd/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/DailyEd/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/DailyEd/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/DailyEd/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/DailyEd/index.html",
+    "main.dc959610.css.map": "/DailyEd/static/css/main.dc959610.css.map",
+    "main.d2635ae4.js.map": "/DailyEd/static/js/main.d2635ae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc959610.css",
+    "static/js/main.d2635ae4.js"
+  ]
+}
