@@ -43,7 +43,7 @@ const Side = () => {
       <Tpost />
 
       <section className='category'>
-        <Heading title='Categories' />
+        <Heading title='Category' />
         {/*<div className='items'>{allCat}</div>*/}
         {category.map((val) => {
           return (
