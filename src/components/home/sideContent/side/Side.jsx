@@ -18,7 +18,7 @@ const Side = () => {
     slidesToScroll: 1,
   }
 
-  const catgeory = ["world", "travel", "sport", "fun", "health", "fashion", "business", "technology"]
+  const category = ["world", "travel", "sport", "fun", "health", "fashion", "business", "technology"]
   return (
     <>
       <Heading title='Stay Connected' />
@@ -42,10 +42,10 @@ const Side = () => {
 
       <Tpost />
 
-      <section className='catgorys'>
-        <Heading title='Catgeorys' />
+      <section className='category'>
+        <Heading title='Categories' />
         {/*<div className='items'>{allCat}</div>*/}
-        {catgeory.map((val) => {
+        {category.map((val) => {
           return (
             <div className='category category1'>
               <span>{val}</span>
