@@ -1,7 +1,7 @@
 export const hero = [
   {
     id: 1,
-    cover: "../images/hero/img1.jpg",
+    cover: "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2VjdXJpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
     catgeory: "featured",
     title: "Google To Boost Android Security In Few Days",
     authorName: "Salman",
@@ -36,7 +36,7 @@ export const hero = [
   },
   {
     id: 2,
-    cover: "../images/hero/img2.jpg",
+    cover: "https://images.unsplash.com/photo-1563299796-b729d0af54a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZvb3RiYWxsJTIwc3RhZGl1bXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     catgeory: "sport",
     title: "More than billion football fans attend Brazil world cup",
     authorName: "alex",
@@ -71,7 +71,7 @@ export const hero = [
   },
   {
     id: 3,
-    cover: "../images/hero/img4.jpg",
+    cover: "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNhbWVyYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     catgeory: "technology",
     title: "No escaping new high tech speed cameras",
     authorName: "rina",
@@ -106,7 +106,7 @@ export const hero = [
   },
   {
     id: 4,
-    cover: "../images/hero/img3.jpg",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAnrMusi0N9-sraigU_oa9eWPqpDqeQQbaMg&usqp=CAU",
     catgeory: "fashion",
     title: "Emma Watson stands up for Turkish women",
     authorName: "sunil",
@@ -143,7 +143,7 @@ export const hero = [
 export const world = [
   {
     id: 1,
-    cover: "../images/world/img1.jpg",
+    cover: "https://images.unsplash.com/photo-1506111583091-becfd4bfa05d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHdvcmxkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     catgeory: "",
     title: "Stepping back does make Sussex safer and at peace ",
     authorName: "Salman",
@@ -151,7 +151,7 @@ export const world = [
   },
   {
     id: 2,
-    cover: "../images/world/img2.jpg",
+    cover: "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHJlbmV3YWJsZSUyMGVuZXJneXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     catgeory: "",
     title: "Renewable energy dead as industry waits for Policy ",
     authorName: "Salman",
@@ -161,7 +161,7 @@ export const world = [
   },
   {
     id: 3,
-    cover: "../images/world/img3.jpg",
+    cover: "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW91bnRhaW58ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
     catgeory: "",
     title: "Mount Etna erupts fashion in nice looking pictures ",
     authorName: "Salman",
@@ -169,7 +169,7 @@ export const world = [
   },
   {
     id: 4,
-    cover: "../images/world/img4.jpg",
+    cover: "https://images.unsplash.com/photo-1578973615934-8d9cdb0792b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2FuYWRhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     catgeory: "",
     title: "China asks Canada to add their full plan ",
     authorName: "Salman",
@@ -177,7 +177,7 @@ export const world = [
   },
   {
     id: 5,
-    cover: "../images/world/img5.jpg",
+    cover: "https://images.unsplash.com/photo-1560012057-4372e14c5085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dGVubmlzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     catgeory: "",
     title: "Serena secures comeback win against Ivanovic",
     authorName: "Salman",
@@ -192,7 +192,7 @@ export const popular = [
     title: "Our Favorite Photos From All Around",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img1.jpg",
+    cover: "https://images.unsplash.com/photo-1606819717115-9159c900370b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z2FsbGVyeXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -201,7 +201,7 @@ export const popular = [
     title: "Places To Visit For A Peaceful Holiday",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img2.jpg",
+    cover: "https://images.unsplash.com/photo-1489721775296-bd64cd2c4ddf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aG9saWRheXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -210,7 +210,7 @@ export const popular = [
     title: "Is This The New Boxing Champion?",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img3.jpg",
+    cover: "https://images.unsplash.com/photo-1552072092-7f9b8d63efcb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym94aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -219,7 +219,7 @@ export const popular = [
     title: "A Detailed Retelling Of Our Trek Through The Dangerous Alps",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img4.jpg",
+    cover: "https://images.unsplash.com/photo-1545652985-5edd365b12eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJla3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -228,7 +228,7 @@ export const popular = [
     title: "Natural Sunlight Boosts Your Immunity",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img5.jpg",
+    cover: "https://images.unsplash.com/photo-1600245892018-3826141b0822?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHN1bmxpZ2h0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -237,7 +237,7 @@ export const popular = [
     title: "Health Benefits From Asparagus",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img6.jpg",
+    cover: "https://images.unsplash.com/photo-1519590350802-eb212e2ea536?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YXNwYXJhZ3VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -246,7 +246,7 @@ export const popular = [
     title: "The Valid Fashion Style For This Fall",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img7.jpg",
+    cover: "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -255,7 +255,7 @@ export const popular = [
     title: "Vote For The Top Tracks Of The Month",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img8.jpg",
+    cover: "https://images.unsplash.com/photo-1494172961521-33799ddd43a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dm90ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -264,7 +264,7 @@ export const popular = [
     title: "Unplugged Gigs To Remember",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img9.jpg",
+    cover: "https://images.unsplash.com/photo-1665686377065-08ba896d16fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGF1Z2h8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -273,7 +273,7 @@ export const popular = [
     title: "Picks For This Month’s Best Instagram Shots",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img10.jpg",
+    cover: "https://images.unsplash.com/photo-1585250003309-694ff34512d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aW5zdGFncmFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -282,7 +282,7 @@ export const popular = [
     title: "Why Rich People Don’t Invest Much",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img11.jpg",
+    cover: "https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aW52ZXN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -291,7 +291,7 @@ export const popular = [
     title: "Welcoming The Digital Generation",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img12.jpg",
+    cover: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8RGlnaXRhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -300,7 +300,7 @@ export const popular = [
     title: "These Teens Are Absolutely Crazy For Beach Soccer",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img13.jpg",
+    cover: "https://images.unsplash.com/photo-1543746746-46047c4f4bb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJlYWNoJTIwc29jY2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -309,7 +309,7 @@ export const popular = [
     title: "How To Organize The Best Bridal Party Ever",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img14.jpg",
+    cover: "https://plus.unsplash.com/premium_photo-1674435520352-178c7e5436f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGJyaWRhbCUyMHBhcnR5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -318,7 +318,7 @@ export const popular = [
     title: "Social Networks And Social Life",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img15.jpg",
+    cover: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c29jaWFsJTIwbWVkaWF8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
   {
@@ -327,7 +327,7 @@ export const popular = [
     title: "Gaming Brings Couples Closer Together?",
     date: "19. February 2022",
     comments: 0,
-    cover: "../images/popular/img16.jpg",
+    cover: "https://images.unsplash.com/photo-1565870100382-f0a510db3cd1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y291cGxlJTIwZ2FtaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
   },
 ]
@@ -338,28 +338,28 @@ export const ppost = [
     catgeory: "world",
     title: "We Went Deep Underground For This Amazing Cave Shot",
     date: "19. February 2022",
-    cover: "../images/ppost/img1.jpg",
+    cover: "https://images.unsplash.com/photo-1560403442-d141ff60800d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2F2ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
   },
   {
     id: 2,
     catgeory: "health",
     title: "6 Reasons Why You Shouldn’t Skip Breakfast",
     date: "19. February 2022",
-    cover: "../images/ppost/img2.jpg",
+    cover: "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGJyZWFrZmFzdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
   },
   {
     id: 3,
     catgeory: "food",
     title: "Our Top 5 Restaurants For A Complete Culinary Experience",
     date: "19. February 2022",
-    cover: "../images/ppost/img3.jpg",
+    cover: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
   },
   {
     id: 4,
     catgeory: "fashion",
     title: "Hipster Chic Is In Again: Get Some Glasses",
     date: "19. February 2022",
-    cover: "../images/ppost/img4.jpg",
+    cover: "https://images.unsplash.com/photo-1554140426-5e830b73a5e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d2F0ZXIlMjBnbGFzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
   },
 ]
 export const lifestyle = [
@@ -368,62 +368,62 @@ export const lifestyle = [
     catgeory: "world",
     title: "Mustang Teases With A New Promo",
     date: "19. February 2022",
-    cover: "../images/life/img1.jpg",
+    cover: "https://images.unsplash.com/photo-1611016186353-9af58c69a533?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bXVzdGFuZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
   },
   {
     id: 2,
     catgeory: "sport",
     title: "Surfs Up – Places For Killer Waves",
     date: "19. February 2022",
-    cover: "../images/life/img2.jpg",
+    cover: "https://images.unsplash.com/photo-1502680390469-be75c86b636f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c3VyZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
   },
   {
     id: 3,
     catgeory: "fashion",
     title: "Learn How To Nail Your Favorite Look",
     date: "19. February 2022",
-    cover: "../images/life/img3.jpg",
+    cover: "https://images.unsplash.com/photo-1445205170230-053b83016050?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
   },
   {
     id: 4,
     catgeory: "world",
     title: "Music Playing On R&B Stations",
     date: "19. February 2022",
-    cover: "../images/life/img4.jpg",
+    cover: "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG11c2ljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
   },
 ]
 export const tpost = [
   {
     id: 1,
     title: "US Promises to give Intel aid to locate the soldiers",
-    cover: "../images/tpost/tpost.webp",
+    cover: "https://images.unsplash.com/photo-1620057285999-c0fb5f8161ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dXMlMjBzb2xkaWVyc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
   },
   {
     id: 2,
     title: "Renewable energy dead as industry waits for Policy",
-    cover: "../images/tpost/tpost2.jpg",
+    cover: "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHJlbmV3YWJsZSUyMGVuZXJneXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
   },
   {
     id: 3,
     title: "Mount Etna erupts fashion in nice looking pictures",
-    cover: "../images/tpost/tpost3.jpg",
+    cover: "https://images.unsplash.com/photo-1519071538632-dd0814a805c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGVydXB0aW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
   },
 ]
 export const gallery = [
   {
-    cover: "../images/gallery/g1.jpg",
+    cover: "https://images.unsplash.com/photo-1613035706983-d64fa59bc977?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBob3Rvc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
   },
   {
-    cover: "../images/gallery/g2.jpg",
+    cover: "https://plus.unsplash.com/premium_photo-1664701475272-953393050754?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGhvdG98ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
   },
   {
-    cover: "../images/gallery/g3.jpg",
+    cover: "https://images.unsplash.com/photo-1511884642898-4c92249e20b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGFuZHNjYXBlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
   },
   {
-    cover: "../images/gallery/g4.jpg",
+    cover: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2l0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
   },
   {
-    cover: "../images/gallery/g5.jpg",
+    cover: "https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dW5pdmVyc2V8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
   },
 ]
 export const discover = [
